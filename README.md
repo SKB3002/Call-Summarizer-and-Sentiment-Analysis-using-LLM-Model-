@@ -3,7 +3,7 @@
 A simple Python + Gradio app that uses the Groq API to analyze customer call transcripts.
 It performs summarization and sentiment analysis in real time, and saves results into a CSV file.
 
-✨ Features
+## ✨ Features
 
 📝 Input Transcript – Enter or paste any customer call transcript.
 
@@ -18,7 +18,7 @@ Transcript | Summary | Sentiment
 
 🎨 Beautiful UI – Built with Gradio and themed for non-technical users.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 Python 3.11+
 
@@ -34,7 +34,7 @@ Requests
 Groq API
  → LLM for summarization & sentiment
 
-🛠️ Installation
+## 🛠️ Installation
 
 Clone this repository:
 
@@ -70,7 +70,7 @@ Gradio will open a local URL in your browser:
 
 http://127.0.0.1:7860
 
-📂 Example
+## 📂 Example
 Input Transcript:
 Hi, I tried booking a slot yesterday but the payment failed. 
 I need this sorted quickly as I don’t want to lose my spot.
@@ -83,14 +83,3 @@ Sentiment: Negative
 
 ✅ Saved automatically into call_analysis.csv
 
-🎥 Internship Deliverable
-
-When recording your demo video:
-
-Walk through the code & explain the flow.
-
-Enter sample transcripts (positive, neutral, negative).
-
-Show outputs in the UI.
-
-Open call_analysis.csv and highlight the saved results.
