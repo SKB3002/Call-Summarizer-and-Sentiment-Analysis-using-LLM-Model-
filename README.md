@@ -1,4 +1,4 @@
-📞 Call Transcript Analyzer
+# 📞 Call Transcript Analyzer
 
 A simple Python + Gradio app that uses the Groq API to analyze customer call transcripts.
 It performs summarization and sentiment analysis in real time, and saves results into a CSV file.
